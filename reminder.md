@@ -1,3 +1,10 @@
 #shopping List
+## Items
 
-#Go to school
+1. Latop
+2. Big mouse
+3. SSD
+
+$$
+1 + 2 + 3
+$$

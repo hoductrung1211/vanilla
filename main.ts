@@ -1,4 +1,9 @@
-let a = 1;
-console.log("B")
+function deleteRow() {
+    const row = 1;
 
-console.log("A")
+    console.log(row);
+    console.log(row);
+    console.log(row);
+    console.log(row);
+    console.log(row);
+}
