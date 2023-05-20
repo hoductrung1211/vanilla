@@ -1,2 +1,4 @@
-"use strict";
-console.log(null === null);
+console.log("hello");
+console.log("what?");
+
+what
